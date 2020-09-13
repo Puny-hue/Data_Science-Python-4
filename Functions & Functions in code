@@ -1,0 +1,25 @@
+* A Function is an action.
+- Functions in code
+import pandas as pd
+from matplotlib import pyplot as plt
+
+* pd.read_csv() - turns a csv file into a table in python.
+* plt.plot()    - turns data into a line plot.
+* plt.show()    - displays plot in a new window.
+
+- Function Name:
+* Starts with the module that the function "lives" in (plt)
+* Followed by the name of the function (plot)
+* Function name is always followed by paranthesis ()
+
+POSITIONAL ARGUMENTS:
+*There are inputs to a function; they tell the fumction how to do its job
+* Order matters!
+KEYWORD ARGUMENTS
+*Must come after positional arguments
+*Start with the name of the arguments (label), then an equals sign(=)
+* Followed by the arguments ()
+
+TWO COMMON ERRORS:
+  -Missing comma
+  -Missing Parenthesis
